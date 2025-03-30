@@ -1,3 +1,4 @@
+***** PSUEDO COMMENTS *********
 
 # open a python file in a folder called L1T02.
 # open a new file and call it conversion.py.
@@ -5,10 +6,14 @@
 # convert them to different data types.
 # print all variables on  separate lines.
 
-num1=99.23 # class 'float'
-num2=23    #  class 'integer'
-num3=150   # class 'integer
-string1="100"  # class 'string'
+***** DECLARE VARIABLES ********
+  
+num1=99.23 # class 'float'- The variable value has a decimal fraction.
+num2=23    #  class 'integer' -The variable value has a whole number.
+num3=150   # class 'integer'-The variable has a whole number.
+string1="100"  # class 'string'-The variable value is inside the quotation marks.
+
+**** CONVERT THE VARIABLES ********
 
 num1=99.23
 num2=23
