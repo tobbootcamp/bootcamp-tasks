@@ -16,7 +16,7 @@ print(name_of_the_user)
 age_of_the_user=input('age of the user: ')
 print(age_of_the_user)
 
-****** PRINT SENTENCE CONTAINING THE DETAILS OF THE USER ********
+****** PRINT SENTENCE CONTAINING THE VARIABLE CALLED STRING ********
 
 str="Hello World!"
 print(str)
