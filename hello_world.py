@@ -8,7 +8,7 @@
 # then,print the output by using the print function.
 # finally,write the string,'hello world' on a new line and the print the string.
 
-******* INPUT THE VARIABLES ***********
+******* USING THE INPUT COMMAND TO GET INFORMATION OF THE USER ***********
 
 name_of_the_user=input('name of the user: ')
 print(name_of_the_user)
@@ -16,7 +16,7 @@ print(name_of_the_user)
 age_of_the_user=input('age of the user: ')
 print(age_of_the_user)
 
-****** PRINT THE VARIABLE CALLED STRING ********
+****** PRINT SENTENCE CONTAINING THE DETAILS OF THE USER ********
 
 str="Hello World!"
 print(str)
