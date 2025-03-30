@@ -1,4 +1,4 @@
-********* PSUEDO COMMENTS*********
+********* PSUEDO COMMENTS *********
 
 # open a python file in a folder called L1T02.
 # open a new file and call it,hello_world.py.
@@ -8,7 +8,7 @@
 # then,print the output by using the print function.
 # finally,write the string,'hello world' on a new line and the print the string.
 
-******* INPUT THE NAME AND AGE OF THE USER***********
+******* INPUT THE VARIABLES ***********
 
 name_of_the_user=input('name of the user: ')
 print(name_of_the_user)
@@ -16,7 +16,7 @@ print(name_of_the_user)
 age_of_the_user=input('age of the user: ')
 print(age_of_the_user)
 
-****** PRINT THE STRING********
+****** PRINT THE VARIABLE CALLED STRING ********
 
 str="Hello World!"
 print(str)
