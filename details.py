@@ -7,11 +7,12 @@
 
 ****** USING THE INPUT COMMAND TO GET THE INFORMATION OF THE USER **********
   
-name=input('name of the user: ')
-age=input('age of the user: ')
-house_number=input('house number of the user: ')
-street_name=input('street name of the user: ')
+name=input('name of the user: ') # name-Derrick Simpson
+age=input('age of the user: ')  # age-35 years
+house_number=input('house number of the user: ') # house_number-12th
+street_name=input('street name of the user: ') # street_name -Riverlea
 
 ***** PRINT THE SENTENCE CONTAINING THE DETAILS OF THE USER ******** 
 
 print(f"This is {name}. He is {age} and lives at house number {house_number} {street_name}. ")
+# print -This is Derrick Simpson.He is 35 years and lives at house number 12th Riverlea.
