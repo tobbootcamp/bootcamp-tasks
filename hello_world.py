@@ -11,12 +11,12 @@
 ******* USING THE INPUT COMMAND TO GET INFORMATION OF THE USER ***********
 
 name_of_the_user=input('name of the user: ')
-print(name_of_the_user)
+print(name_of_the_user) # name: Archibald Moon
 
 age_of_the_user=input('age of the user: ')
-print(age_of_the_user)
+print(age_of_the_user) # age : 40 years
 
 ****** PRINT SENTENCE CONTAINING THE VARIABLE CALLED STRING ********
 
 str="Hello World!"
-print(str)
+print(str) # print: Hello World!
