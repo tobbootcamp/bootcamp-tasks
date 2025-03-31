@@ -8,10 +8,10 @@
 
 ***** DECLARE VARIABLES ********
   
-num1=99.23 # class 'float'- The variable value has a decimal fraction.
-num2=23    #  class 'integer' -The variable value has a whole number.
-num3=150   # class 'integer'-The variable has a whole number.
-string1="100"  # class 'string'-The variable value is inside the quotation marks.
+num1=99.23 # class 'float' : The variable value has a decimal fraction.
+num2=23    #  class 'integer' : The variable value has a whole number.
+num3=150   # class 'integer' : The variable has a whole number.
+string1="100"  # class 'string' : The variable value is inside the quotation marks.
 
 **** CONVERT THE VARIABLES ********
 
