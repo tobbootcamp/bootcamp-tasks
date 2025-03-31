@@ -20,12 +20,12 @@ num2=23
 num3=150
 string1="100"
 
-num_1=int(num1)
-num_2=float(num2)
+num_1=int(num1) 
+num_2=float(num2) 
 num_3=str(num3)
 string_1=int(string1)
 
-print(num_1)
-print(num_2)
-print(num_3)
-print(string_1)
+print(num_1) # print 99
+print(num_2) # print 23.0
+print(num_3)  # print 150
+print(string_1) # print 100
